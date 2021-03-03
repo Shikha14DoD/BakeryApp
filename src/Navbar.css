@@ -1,0 +1,39 @@
+.navbar
+{
+    background-color: grey;
+    height:800px;
+    width:220px;
+}
+
+button{
+    background-color: grey;
+    border: none;
+}
+
+ul{
+    list-style-type: none
+}
+
+.logo{
+
+    margin-top: 2px;
+    float: left;
+    position: sticky;
+}
+
+.liname a{
+    text-decoration: none;
+    font-family: 'Mulish', sans-serif;
+    color: indigo;
+    
+}
+
+#list{
+    margin-top: 10px;
+}
+.liname{
+
+    
+    font-size: 40px;
+    margin-top: 10px;
+}
