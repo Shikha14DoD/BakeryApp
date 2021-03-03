@@ -12,7 +12,7 @@ const Navbar=()=>{
             <div>
             <ul>
             <li className="logo">
-            <Button><NavLink to="/" >BakeryShop</NavLink></Button>
+            <Button><NavLink to="/" >NewBakeryShop</NavLink></Button>
             </li>
             </ul>
             <ul id="list" >
