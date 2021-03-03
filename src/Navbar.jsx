@@ -1,5 +1,6 @@
 import React from 'react'
 import './Navbar.css'
+import { Button } from 'react-bootstrap'
 import {NavLink} from 'react-router-dom'
 const Navbar=()=>{
 
@@ -10,8 +11,8 @@ const Navbar=()=>{
             
             <div>
             <ul>
-            <li className="logoOne">
-            <button><NavLink to="/" >BakeryShop</NavLink></button>
+            <li className="logo">
+            <Button><NavLink to="/" >BakeryShop</NavLink></Button>
             </li>
             </ul>
             <ul id="list" >
